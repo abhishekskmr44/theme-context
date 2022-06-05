@@ -1,0 +1,24 @@
+.navbarLight {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid black;
+}
+.navbarDark {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid white;
+}
+h2 {
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    cursor: pointer;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
